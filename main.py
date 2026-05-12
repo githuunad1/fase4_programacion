@@ -2,8 +2,8 @@
 # Fase 4 - Programacion
 # Sistema Integral de Gestion de Clientes, Servicios y Reservas
 # Empresa: Software FJ
-# Autor: [Escriba aqui su nombre]
-# Grupo: [Escriba aqui su grupo]
+# Autor: GABRIELA BARON ESPRIELLA
+# Grupo: 213023_10
 # Curso: Programacion - UNAD
 # ============================================================
 
